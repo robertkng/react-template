@@ -1,7 +1,7 @@
 {
-  "name": "bobby-king-react-template",
+  "name": "robert-ng-react-template",
   "version": "1.0.0",
-  "description": "React application template using webpack",
+  "description": "React application using webpack",
   "main": "server.js",
   "engines": {
     "node": "6.6.0"
@@ -21,24 +21,19 @@
     "type": "",
     "url": ""
   },
-  "author": "Bobby King",
+  "author": "Robert Ng",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/gittheking/react_template/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/gittheking/react_template#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
-    "desandro-classie": "^1.0.1",
     "dotenv": "^2.0.0",
     "express": "^4.14.0",
-    "jsonwebtoken": "^7.1.9",
     "morgan": "^1.7.0",
     "nodemon": "^1.11.0",
-    "passport": "^0.3.2",
-    "passport-jwt": "^2.2.1",
-    "passport-local": "^1.0.0",
     "path": "^0.12.7",
     "pg-promise": "^5.2.7"
   },
@@ -66,9 +61,6 @@
     "postcss-loader": "^1.1.1",
     "react": "^0.14.8",
     "react-dom": "0.14.x",
-    "react-hover": "^0.6.2",
-    "react-spark-scroll-gsap": "^2.0.2",
-    "react-tooltip": "^3.2.2",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
