@@ -10,7 +10,7 @@ ReactDOM.render((
   <Router history={browserHistory}>
     <Route path="/" component={App} >
       <IndexRoute component={One} />
-        <Route path="/add" component={Two} />
+        <Route path="/Two" component={Two} />
         <Route path="/Three" component={Three} />
     </Route>
   </Router>
